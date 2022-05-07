@@ -1,2 +1,5 @@
 # AutoIntelligentImageCaptioning
-Major Project Submitted By Tushar Jain And Srishti Singh for Btech Completion in SRMIST
+Install dependencies
+$pip3 install -r requirements.txt$
+Run the flask application by executing the following console.
+$python app.py$
